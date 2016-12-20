@@ -9,7 +9,7 @@ This application was made in the third week of the [Codaisseur](https://www.coda
 1. How to make AJAX requests in a Rails application (POST, GET, PUT, PATCH)
 2. Dinamically update the UI using jQuery
 
-## Installation
+## Getting Started
 1. Make sure [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Rails](http://guides.rubyonrails.org/getting_started.html#installing-rails) are installed in your system
 
 2. Clone the repository
