@@ -117,6 +117,7 @@ function deleteTodo(todoId) {
       updateCounters();
     });
 }
+
 $(document).ready(function() {
   $("input[type=checkbox]").bind('change', toggleDone);
   $("form").bind('submit', submitTodo);
