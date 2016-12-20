@@ -11,17 +11,23 @@ This application was made in the third week of the [Codaisseur](https://www.coda
 
 ## Installation
 1. Make sure [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Rails](http://guides.rubyonrails.org/getting_started.html#installing-rails) are installed in your system
+
 2. Clone the repository
+
 3. Install all dependencies
-```bash
-bundle install
-```
+
+  ```bash
+  bundle install
+  ```
 4. Create database and migrate schema
-```bash
-rake db:create
-rake db:migrate
-```
+
+  ```bash
+  rake db:create
+  rake db:migrate
+  ```
+  
 5. Run the application - it should be available on http://localhost:3000
-```bash
-rails s
-```
+
+  ```bash
+  rails s
+  ```
