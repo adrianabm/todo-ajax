@@ -1,6 +1,6 @@
 # Todo on Rails using AJAX
 
-![ScreenShot-Todos](https://cloud.githubusercontent.com/assets/20054414/21348096/e62702c2-c6ab-11e6-9eab-677ce0ac385f.png)
+![todo-ajax](https://cloud.githubusercontent.com/assets/20054414/21587149/39a2e308-d0d9-11e6-85ac-185255ce017e.gif)
 
 ## About
 This application was made in the third week of the [Codaisseur](https://www.codaisseur.com/) traineeship program. It is a simple to-do app  covering how to work with JavaScript in a Rails application.
